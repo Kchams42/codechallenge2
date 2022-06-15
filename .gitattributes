@@ -1,0 +1,2 @@
+all_mtg_cards.csv filter=lfs diff=lfs merge=lfs -text
+all_mtg_cards.py filter=lfs diff=lfs merge=lfs -text
